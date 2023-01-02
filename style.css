@@ -1,0 +1,111 @@
+
+  body{
+    background: url('Pino.jpg');
+     -moz-background-size: cover;
+     -webkit-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+   }
+
+  .container{
+    width: 1000px;
+    margin:auto;
+    text-align: center;
+
+ }
+
+   .Lim{
+
+    width: 200px;
+    position: relative;
+    top: 13%;
+
+ }
+
+  .square{
+    height: 700px;
+    width: 1000px;
+    border: 1px solid black;
+    margin: 1px;
+    border-radius: 2%;
+    left: 300px;
+
+
+  }
+
+  .black{
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+  .cuffiette {
+    background-color: rgb(117, 255, 60);
+    height: 40px;
+    width: 800px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+
+  }
+
+  .bottoni{
+    position: relative;
+    top: 10px;
+
+  }
+
+  .Titolouno{
+    color: rgb(117, 255, 60);
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top: 10%;
+
+  }
+  .row-left{
+
+   display: inline-block;
+   position: relative;
+   top: 100px;
+   font-family: Arial;
+   color: white;
+   right: 30%;
+   line-height: 15px;
+   font-size: 20px;
+
+  }
+
+  .orologio{
+    font-size: 13px;
+
+  }
+
+  .topazia{
+    background-color: rgb(255, 200, 60);
+    height: 30px;
+    width: 300px;
+    position: relative;
+    left: 10%;
+    top: 100px;
+    border-radius: 5%;
+  }
+
+  .topazia2{
+    background-color: rgb(61, 169, 64);
+    height: 30px;
+    width: 500px;
+    position: relative;
+    left: 10%;
+    top: 100px;
+    border-radius: 5%;
+  }
+
+ .topazia3{
+   background-color: rgb(252, 10, 71);
+   height: 30px;
+   width: 100px;
+   position: relative;
+   left: 10%;
+   top:100px;
+   border-radius: 5%;
+ }
+
+ /* scusate per il disordine del codice e se ho sbagliato alcune cose =) */
